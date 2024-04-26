@@ -33,3 +33,9 @@ To run the data analysis code, you need to install the following libraries:
 - jupyter
 
 These libraries can be installed using `pip`:
+pip install pandas numpy matplotlib seaborn plotly jupyter
+
+## Authors:
+
+- Egor Povarnitsyn
+
